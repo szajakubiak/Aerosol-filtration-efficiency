@@ -24,10 +24,13 @@ Go to the https://www.python.org/ and download the current version of Python 3. 
   1.2. Linux
 
 Open command line and type:
+
     sudo apt install python3
 
 2. Install dependencies
 
 Open command line and type:
+
     pip install jupyter matplotlib
+
 If there will be an error than pip command is not recognized, try using pip3 instead.
